@@ -1,2 +1,2 @@
-# PhotoFusion
- Photo Fusion is a simple Image Editor application built using HTML , CSS and Javascript
+# PicturePalette
+Picture-Palette is an image editor allows users to edit the images as per their needs.
